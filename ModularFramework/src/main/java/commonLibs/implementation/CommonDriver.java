@@ -75,7 +75,7 @@ public class CommonDriver {
 	}
 
 	public void closeAllBrower() {
-		//driver.quit();
+		driver.quit();
 	}
 	
 	public String getTitleOfThePage() {

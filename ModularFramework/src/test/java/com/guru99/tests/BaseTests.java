@@ -89,7 +89,7 @@ public class BaseTests {
 	public void tearDownAfterTestClass() {
 
 		System.out.println("Browser closed. WebDriver stopped.");
-		//cmnDriver.closeAllBrower();
+			cmnDriver.closeAllBrower();
 	}
 	
 	@AfterSuite
