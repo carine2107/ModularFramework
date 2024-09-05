@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-31T09:47:46 CEST" name="Suite" finished-at="2024-08-31T09:47:50 CEST" duration-ms="4166">
+  <suite started-at="2024-08-31T10:15:42 CEST" name="Suite" finished-at="2024-08-31T10:15:48 CEST" duration-ms="5474">
     <groups>
     </groups>
-    <test started-at="2024-08-31T09:47:46 CEST" name="Test" finished-at="2024-08-31T09:47:50 CEST" duration-ms="4166">
+    <test started-at="2024-08-31T10:15:42 CEST" name="Test" finished-at="2024-08-31T10:15:48 CEST" duration-ms="5474">
       <class name="com.guru99.tests.LoginTests">
-        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.guru99.tests.LoginTests@2cb4893b]" started-at="2024-08-31T09:47:46 CEST" name="preSetup" finished-at="2024-08-31T09:47:46 CEST" duration-ms="118" status="PASS">
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:com.guru99.tests.LoginTests@2cb4893b]" started-at="2024-08-31T10:15:42 CEST" name="preSetup" finished-at="2024-08-31T10:15:42 CEST" duration-ms="105" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preSetup -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.guru99.tests.LoginTests@2cb4893b]" started-at="2024-08-31T09:47:46 CEST" name="setup" finished-at="2024-08-31T09:47:50 CEST" duration-ms="3919" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.guru99.tests.LoginTests@2cb4893b]" started-at="2024-08-31T10:15:42 CEST" name="setup" finished-at="2024-08-31T10:15:46 CEST" duration-ms="4013" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyUserLoginWithCorrectCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.guru99.tests.LoginTests@2cb4893b]" started-at="2024-08-31T09:47:50 CEST" name="verifyUserLoginWithCorrectCredentials" finished-at="2024-08-31T09:47:50 CEST" duration-ms="221" status="PASS">
+        <test-method signature="verifyUserLoginWithCorrectCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.guru99.tests.LoginTests@2cb4893b]" started-at="2024-08-31T10:15:46 CEST" name="verifyUserLoginWithCorrectCredentials" finished-at="2024-08-31T10:15:47 CEST" duration-ms="213" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -31,7 +31,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyUserLoginWithCorrectCredentials -->
-        <test-method is-config="true" signature="postTestAction(org.testng.ITestResult)[pri:0, instance:com.guru99.tests.LoginTests@2cb4893b]" started-at="2024-08-31T09:47:50 CEST" name="postTestAction" finished-at="2024-08-31T09:47:50 CEST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="postTestAction(org.testng.ITestResult)[pri:0, instance:com.guru99.tests.LoginTests@2cb4893b]" started-at="2024-08-31T10:15:47 CEST" name="postTestAction" finished-at="2024-08-31T10:15:47 CEST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -42,11 +42,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postTestAction -->
-        <test-method is-config="true" signature="tearDownAfterTestClass()[pri:0, instance:com.guru99.tests.LoginTests@2cb4893b]" started-at="2024-08-31T09:47:50 CEST" name="tearDownAfterTestClass" finished-at="2024-08-31T09:47:50 CEST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDownAfterTestClass()[pri:0, instance:com.guru99.tests.LoginTests@2cb4893b]" started-at="2024-08-31T10:15:47 CEST" name="tearDownAfterTestClass" finished-at="2024-08-31T10:15:48 CEST" duration-ms="1226" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownAfterTestClass -->
-        <test-method is-config="true" signature="postTeardown()[pri:0, instance:com.guru99.tests.LoginTests@2cb4893b]" started-at="2024-08-31T09:47:50 CEST" name="postTeardown" finished-at="2024-08-31T09:47:50 CEST" duration-ms="173" status="PASS">
+        <test-method is-config="true" signature="postTeardown()[pri:0, instance:com.guru99.tests.LoginTests@2cb4893b]" started-at="2024-08-31T10:15:48 CEST" name="postTeardown" finished-at="2024-08-31T10:15:48 CEST" duration-ms="187" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postTeardown -->
